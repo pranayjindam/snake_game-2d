@@ -1,2 +1,2 @@
-# snake_game-2d
-developed a snake game using pygame
+# snake-game-using-pygame
+its a 2d snake game using pygame module 
